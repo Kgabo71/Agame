@@ -934,7 +934,7 @@ blockquote {
   SITE FOOTER              
 -----------------------------------------*/
 .site-footer {
-  border-bottom: 10px solid var(--secondary-color);
+  border-bottom: 10px solid var( --link-hover-color);
   position: relative;
 }
 
